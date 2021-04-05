@@ -36,17 +36,6 @@ We are a new Roleplaying Community established in March of 2021, we are based on
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
-
-<p align="left">
-<a href="https://github.com/AutomotiveRC/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
----
-
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
@@ -56,6 +45,11 @@ We are a new Roleplaying Community established in March of 2021, we are based on
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCNdpU-Sn2l9VjQ1Y5tG05ew), [Discord](https://discord.gg/X5SmKAZzYC), and coming soon [Twitter](https://discord.gg/X5SmKAZzYC)
 
 ---
+
+<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+
+---
+
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
