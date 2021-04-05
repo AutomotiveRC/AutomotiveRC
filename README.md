@@ -10,7 +10,15 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
 
-We are a new Roleplaying Community established in March of 2021, we are based on Automotive, hint the name. We have experienced developers, experienced owners, and experienced staff. As of now, we only have 31 members but growing!
+We are a new Roleplaying Community established in March of 2021, we are based on Automotive, hint the name. We have experienced developers, experienced owners, and experienced staff. As of now, we only have 31 members but growing! Hope to one day have active LEO and Civilians. We have many departments, like:
+Civ: Civilian Department
+SASD: San Andreas Sheriff's Office
+SASP: San Andreas State Police
+SAFR: San Andreas Fire Rescue
+LAPD: Los Santos Port Authority
+FBI: Federal Bureau of Investigation
+CO: Community Officer
+We hope to see you with us one day!
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://discord.gg/X5SmKAZzYC)
 
@@ -19,7 +27,7 @@ We are a new Roleplaying Community established in March of 2021, we are based on
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Coming Soon!](https://github.com/AutomotiveRC/)
+- 📌 &nbsp; [CFX.re Page](https://forum.cfx.re/t/arc-automotive-roleplaying-community-fx-base-with-esx-resources/2537963)
 - 🚀 &nbsp; [Coming Soon!](https://github.com/AutomotiveRC/)
 - 🏫 &nbsp; [Coming Soon!](https://github.com/AutomotiveRC/)
 - 🌀 &nbsp; [Coming Soon!](https://github.com/AutomotiveRC/)
@@ -39,17 +47,12 @@ We are a new Roleplaying Community established in March of 2021, we are based on
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
+- Computor: i7-9700k, 2070 super Built By Me
 - Browser: Google lol
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCNdpU-Sn2l9VjQ1Y5tG05ew), [Discord](https://discord.gg/X5SmKAZzYC), and coming soon [Twitter](https://discord.gg/X5SmKAZzYC)
 
 ---
-
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-
----
-
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
 
